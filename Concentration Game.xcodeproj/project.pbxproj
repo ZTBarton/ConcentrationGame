@@ -14,6 +14,7 @@
 		F1264AB62ADB542100DB2BD3 /* Concentration_GameTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1264AB52ADB542100DB2BD3 /* Concentration_GameTests.swift */; };
 		F1264AC02ADB542100DB2BD3 /* Concentration_GameUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1264ABF2ADB542100DB2BD3 /* Concentration_GameUITests.swift */; };
 		F1264AC22ADB542100DB2BD3 /* Concentration_GameUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1264AC12ADB542100DB2BD3 /* Concentration_GameUITestsLaunchTests.swift */; };
+		F1264ACF2ADB5F5300DB2BD3 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = F1264ACE2ADB5F5300DB2BD3 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		F1264ABB2ADB542100DB2BD3 /* Concentration GameUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Concentration GameUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F1264ABF2ADB542100DB2BD3 /* Concentration_GameUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Concentration_GameUITests.swift; sourceTree = "<group>"; };
 		F1264AC12ADB542100DB2BD3 /* Concentration_GameUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Concentration_GameUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F1264ACE2ADB5F5300DB2BD3 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 		F1264A972ADB542000DB2BD3 = {
 			isa = PBXGroup;
 			children = (
+				F1264ACE2ADB5F5300DB2BD3 /* README.md */,
 				F1264AA22ADB542000DB2BD3 /* Concentration Game */,
 				F1264AB42ADB542100DB2BD3 /* Concentration GameTests */,
 				F1264ABE2ADB542100DB2BD3 /* Concentration GameUITests */,
@@ -233,6 +236,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F1264ACF2ADB5F5300DB2BD3 /* README.md in Resources */,
 				F1264AAC2ADB542100DB2BD3 /* Preview Assets.xcassets in Resources */,
 				F1264AA82ADB542100DB2BD3 /* Assets.xcassets in Resources */,
 			);

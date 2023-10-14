@@ -31,7 +31,7 @@ struct CardView: View {
             }
             
         }
-        .foregroundColor(.blue)
+        .foregroundColor(.purple)
     }
 }
 
