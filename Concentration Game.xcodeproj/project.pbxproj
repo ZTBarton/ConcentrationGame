@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		F1264AA42ADB542000DB2BD3 /* Concentration_GameApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1264AA32ADB542000DB2BD3 /* Concentration_GameApp.swift */; };
-		F1264AA62ADB542000DB2BD3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1264AA52ADB542000DB2BD3 /* ContentView.swift */; };
+		F1264AA62ADB542000DB2BD3 /* ConcentrationGameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1264AA52ADB542000DB2BD3 /* ConcentrationGameView.swift */; };
 		F1264AA82ADB542100DB2BD3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F1264AA72ADB542100DB2BD3 /* Assets.xcassets */; };
 		F1264AAC2ADB542100DB2BD3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F1264AAB2ADB542100DB2BD3 /* Preview Assets.xcassets */; };
 		F1264AB62ADB542100DB2BD3 /* Concentration_GameTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1264AB52ADB542100DB2BD3 /* Concentration_GameTests.swift */; };
@@ -36,7 +36,7 @@
 /* Begin PBXFileReference section */
 		F1264AA02ADB542000DB2BD3 /* Concentration Game.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Concentration Game.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F1264AA32ADB542000DB2BD3 /* Concentration_GameApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Concentration_GameApp.swift; sourceTree = "<group>"; };
-		F1264AA52ADB542000DB2BD3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		F1264AA52ADB542000DB2BD3 /* ConcentrationGameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConcentrationGameView.swift; sourceTree = "<group>"; };
 		F1264AA72ADB542100DB2BD3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F1264AA92ADB542100DB2BD3 /* Concentration_Game.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Concentration_Game.entitlements; sourceTree = "<group>"; };
 		F1264AAB2ADB542100DB2BD3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -96,7 +96,7 @@
 			isa = PBXGroup;
 			children = (
 				F1264AA32ADB542000DB2BD3 /* Concentration_GameApp.swift */,
-				F1264AA52ADB542000DB2BD3 /* ContentView.swift */,
+				F1264AA52ADB542000DB2BD3 /* ConcentrationGameView.swift */,
 				F1264AA72ADB542100DB2BD3 /* Assets.xcassets */,
 				F1264AA92ADB542100DB2BD3 /* Concentration_Game.entitlements */,
 				F1264AAA2ADB542100DB2BD3 /* Preview Content */,
@@ -259,7 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F1264AA62ADB542000DB2BD3 /* ContentView.swift in Sources */,
+				F1264AA62ADB542000DB2BD3 /* ConcentrationGameView.swift in Sources */,
 				F1264AA42ADB542000DB2BD3 /* Concentration_GameApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
