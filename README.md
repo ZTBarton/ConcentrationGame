@@ -1,2 +1,4 @@
 # ConcentrationGame
-iOS concentration game built with Swift/SwiftUI.
+iOS matching game built with Swift/SwiftUI.
+
+Complete with animations and scoring!
